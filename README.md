@@ -3,9 +3,10 @@ Customer Satisfaction Analysis Report¶
 Introduction: This report presents an analysis of customer satisfaction data collected from an undisclosed airline company. The dataset contains information on various factors that may influence customer satisfaction, such as flight punctuality, service quality, and class of travel. The goal of this analysis is to gain insights into the factors affecting customer satisfaction and to provide recommendations for improving the overall customer experience.
 
 Dataset Overview:
-
 The dataset comprises 22 columns and 129,880 rows.
+
 Key columns include:
+
 Satisfaction: Indicates whether the customer was satisfied, dissatisfied, or neutral.
 Customer Type: Specifies if the customer is a loyal or disloyal customer.
 Age: Age of the customer.
@@ -19,29 +20,29 @@ Analysis:
 Customer Satisfaction Distribution:
 
 Majority of customers seem to be satisfied, with a smaller proportion being dissatisfied or neutral.
+
 Customer Type Distribution:
-
 The dataset contains more entries from loyal customers compared to disloyal customers.
+
 Age Distribution:
-
 The age distribution of customers spans a wide range, with a peak in the middle age group.
+
 Type of Travel Distribution:
-
 Personal travel appears to be more common than business travel among the customers in the dataset.
+
 Class Distribution:
-
 Economy class seems to be the most common class of travel, followed by business class.
+
 Service Ratings:
-
 Boxplot analysis reveals varying levels of satisfaction across different service aspects. Some areas, such as seat comfort and cleanliness, have higher average ratings compared to others.
+
 Flight Distance Distribution:
-
 The distribution of flight distances shows that the dataset covers a wide range of travel distances.
+
 Departure Delay vs Arrival Delay:
-
 There is a positive correlation between departure delay and arrival delay, indicating that flights with longer departure delays tend to have longer arrival delays as well.
-Correlation Matrix:
 
+Correlation Matrix:
 A correlation matrix shows the relationships between different variables. Positive correlations exist between certain service ratings (e.g., seat comfort and inflight entertainment), while departure delay is positively correlated with arrival delay.
 
 Recommendations:
