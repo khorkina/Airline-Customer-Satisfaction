@@ -21,29 +21,56 @@ Customer Satisfaction Distribution:
 
 Majority of customers seem to be satisfied, with a smaller proportion being dissatisfied or neutral.
 
+![image](https://github.com/khorkina/Airline-Customer-Satisfaction/assets/166530415/c400db24-1062-4799-a7f0-b3e31084c261)
+
+
 Customer Type Distribution:
 The dataset contains more entries from loyal customers compared to disloyal customers.
+
+![image](https://github.com/khorkina/Airline-Customer-Satisfaction/assets/166530415/e5ea4032-aa17-4333-a777-3f227dbdea12)
+
 
 Age Distribution:
 The age distribution of customers spans a wide range, with a peak in the middle age group.
 
+![image](https://github.com/khorkina/Airline-Customer-Satisfaction/assets/166530415/5d8120ea-8cc3-4318-bc97-8474d79c5dc8)
+
+
 Type of Travel Distribution:
 Personal travel appears to be more common than business travel among the customers in the dataset.
+
+![image](https://github.com/khorkina/Airline-Customer-Satisfaction/assets/166530415/b23d6099-d627-4895-922b-4f11f95bcebc)
+
 
 Class Distribution:
 Economy class seems to be the most common class of travel, followed by business class.
 
+![image](https://github.com/khorkina/Airline-Customer-Satisfaction/assets/166530415/771ef03b-e85f-4e8d-8701-5b9203e7f322)
+
+
 Service Ratings:
 Boxplot analysis reveals varying levels of satisfaction across different service aspects. Some areas, such as seat comfort and cleanliness, have higher average ratings compared to others.
+
+![image](https://github.com/khorkina/Airline-Customer-Satisfaction/assets/166530415/8c741625-f191-4a36-8570-57dfa8929a0b)
+
 
 Flight Distance Distribution:
 The distribution of flight distances shows that the dataset covers a wide range of travel distances.
 
+![image](https://github.com/khorkina/Airline-Customer-Satisfaction/assets/166530415/242ca932-e8d2-4e8e-8188-d83c77462684)
+
+
 Departure Delay vs Arrival Delay:
 There is a positive correlation between departure delay and arrival delay, indicating that flights with longer departure delays tend to have longer arrival delays as well.
 
+![image](https://github.com/khorkina/Airline-Customer-Satisfaction/assets/166530415/0ee5d303-4cfe-4941-91fc-303f4b9bc5ca)
+
+
 Correlation Matrix:
 A correlation matrix shows the relationships between different variables. Positive correlations exist between certain service ratings (e.g., seat comfort and inflight entertainment), while departure delay is positively correlated with arrival delay.
+
+![image](https://github.com/khorkina/Airline-Customer-Satisfaction/assets/166530415/4d552d44-e73b-4140-906d-f6e042344fcc)
+
 
 Recommendations:
 
