@@ -1,6 +1,7 @@
 # Airline-Customer-Satisfaction
 Customer Satisfaction Analysis Report¶
-Introduction: This report presents an analysis of customer satisfaction data collected from an undisclosed airline company. The dataset contains information on various factors that may influence customer satisfaction, such as flight punctuality, service quality, and class of travel. The goal of this analysis is to gain insights into the factors affecting customer satisfaction and to provide recommendations for improving the overall customer experience.
+Introduction: 
+This report presents an analysis of customer satisfaction data collected from an undisclosed airline company. The dataset contains information on various factors that may influence customer satisfaction, such as flight punctuality, service quality, and class of travel. The goal of this analysis is to gain insights into the factors affecting customer satisfaction and to provide recommendations for improving the overall customer experience.
 
 Dataset Overview:
 The dataset comprises 22 columns and 129,880 rows.
